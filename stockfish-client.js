@@ -1,4 +1,3 @@
-```javascript
 /*
  * Stockfish 18 客户端
  *
