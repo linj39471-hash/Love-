@@ -1,0 +1,11 @@
+{
+  "name": "ngnl-stockfish-chess",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SillyTavern extension: user-controlled Blank versus Tet powered by Stockfish 18.",
+  "scripts": {
+    "test": "node tests/engine.test.js"
+  },
+  "license": "GPL-3.0"
+}
